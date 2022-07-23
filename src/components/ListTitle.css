@@ -1,0 +1,13 @@
+.childItems {
+	width: 200px;
+	height: 50px;
+	margin: auto;
+    margin-top: 50px;
+	border: 2px solid;
+	border-radius: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: aqua;
+    font-size: 25px;
+}

@@ -1,0 +1,28 @@
+.active {
+	width: 200px;
+	height: 100px;
+	margin: auto;
+	border: 2px solid;
+	margin-top: 20px;
+	font-size: 25px;
+	font-weight: bold;
+	background: yellowgreen;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+    cursor: pointer;
+}
+.disabled {
+    width: 200px;
+	height: 100px;
+	margin: auto;
+	border: 2px solid;
+	margin-top: 20px;
+	font-size: 25px;
+	font-weight: bold;
+	background: grey;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+    pointer-events: none;
+}
